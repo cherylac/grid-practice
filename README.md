@@ -1,2 +1,2 @@
 # grid-practice
-This is a from a tutorial by Traversy Media on youtube. Great tutorial; easy to follow along and great practice of using grid layout.
+This is from a tutorial by Traversy Media on youtube. The tutorial was easy to follow along and great practice for using grid layout.
