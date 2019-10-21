@@ -1,3 +1,3 @@
-#Grid-practice
+# Grid practice
 
-practice using grid layout.
+Practice using grid layout.
