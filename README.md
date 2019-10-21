@@ -1,3 +1,3 @@
 # Grid practice
 
-Practice using grid layout.
+Web page using grid layout.
